@@ -1,0 +1,4 @@
+name: CreeperNO
+version: ${project.version}
+main: com.vidunjayakody.creeperno.CreeperNO
+api-version: 1.16
