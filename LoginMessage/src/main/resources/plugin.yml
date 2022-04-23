@@ -1,0 +1,6 @@
+name: JoinLeavePlugin
+version: '${project.version}'
+main: com.vidunjayakody.joinleaveplugin.JoinLeavePlugin
+api-version: 1.18
+authors: [ Vidun ]
+description: Custom join and leave messages since apparently nobody can code a simple fucking plugin for 1.18.2
