@@ -13,12 +13,6 @@ public class JoinLeaveListener implements Listener {
 
         Player player = e.getPlayer();
 
-        try {
-            Thread.sleep(5000);
-        } catch (InterruptedException ex) {
-            throw new RuntimeException(ex);
-        }
-
         player.sendMessage(ChatColor.GRAY + "Join the server discord at: " + ChatColor.GREEN + ChatColor.UNDERLINE + "https://discord.gg/g6NHNq9tey" + ChatColor.GRAY + "!");
 
     }
